@@ -1,10 +1,10 @@
-# The functional role of episodic memory in spatial learning
+# Modeling the function of episodic memory in spatial learning
 
-The code is for recreating the simulations and figures described in the paper **The functional role of episodic memory in spatial learning (Zeng, X., Wiskott, L., Cheng, S., 2022)**
+The code is for recreating the simulations and figures described in the paper **Modeling the function of episodic memory in spatial learning (Zeng, X., Diekmann, N., Wiskott, L., Cheng, S., 2023)**
 
 ## Description
 
-The folder "Experiments" contain the scripts for running the simulations, and the folder "data" contains the scripts for plotting the figures as well as the stored data from the simulations. All other files function as supporting codes.
+The folder "experiments" contain the scripts for running the simulations and for plotting the figures as well as the stored data from the simulations. All other files function as supporting codes.
 
 ## Getting Started
 
